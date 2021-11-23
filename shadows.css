@@ -1,0 +1,7 @@
+
+:root {
+    --shadow-elevation-1: 0px 2px 4px 0px #0000003d; 
+    --shadow-elevation-2: 0px 4px 8px 0px #00000029; 
+    --shadow-elevation-3: 0px 8px 16px 0px #0000001f; 
+    --shadow-elevation-4: 0px 16px 24px 0px #0000001f; 
+}

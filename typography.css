@@ -1,0 +1,154 @@
+ 
+.typography-display-heavy {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-display-light {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-headline-heavy {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-headline-light {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-title-heavy {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-title-light {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-subheader-heavy {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-subheader-light {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-body-heavy {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-body-light {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-caption-heavy {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-caption-light {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-small-heavy {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+
+ 
+.typography-small-light {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-indent: 0px;
+} 
+

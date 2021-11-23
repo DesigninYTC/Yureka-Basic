@@ -1,0 +1,78 @@
+
+:root {
+    --color-gray-darker: #616569; 
+    --color-gray-dark: #92979d; 
+    --color-gray-default: #c2c9d1; 
+    --color-gray-light: #e1e4e8; /* (Divider) */
+    --color-gray-lighter: #f0f2f3; 
+    --color-gray-lightest-2: #f9fafa; 
+    --color-gray-lightest-1: #fcfcfd; 
+    --color-black-default: #000000; /* (Default text) */
+    --color-black-light: #808080; /* (Secondary text) */
+    --color-black-lighter: #bfbfbf; /* (Disabled text) */
+    --color-black-lightest-2: #e5e5e5; /* (Default border) */
+    --color-black-lightest-1: #f2f2f2; /* (Default fill) */
+    --color-white-default: #ffffff; /* (Default text) */
+    --color-white-light: #ffffffb2; /* (Secondary text) */
+    --color-white-lighter: #ffffff80; /* (Disabled text) */
+    --color-white-lightest-2: #ffffff59; /* (Default border) */
+    --color-white-lightest-1: #ffffff40; /* (Default fill) */
+    --color-primary-darker: #1f337e; 
+    --color-primary-dark: #2e4cbc; 
+    --color-primary-default: #3e66fb; 
+    --color-primary-light: #9eb3fd; 
+    --color-primary-lighter: #cfd9fe; 
+    --color-primary-lightest-2: #ecf0ff; 
+    --color-primary-lightest-1: #f5f7ff; 
+    --color-success-darker: #1e611d; 
+    --color-success-dark: #2d912c; 
+    --color-success-default: #3cc13b; 
+    --color-success-light: #9de09d; 
+    --color-success-lighter: #ceefce; 
+    --color-success-lightest-2: #ebf9eb; 
+    --color-success-lightest-1: #f5fcf5; 
+    --color-warning-darker: #7a5d0e; 
+    --color-warning-dark: #b68c15; 
+    --color-warning-default: #f3bb1c; 
+    --color-warning-light: #f9dd8d; 
+    --color-warning-lighter: #fceec6; 
+    --color-warning-lightest-2: #fef8e8; 
+    --color-warning-lightest-1: #fefcf4; 
+    --color-error-darker: #781b1c; 
+    --color-error-dark: #b4292a; 
+    --color-error-default: #f03738; 
+    --color-error-light: #f89b9b; 
+    --color-error-lighter: #fbcdcd; 
+    --color-error-lightest-2: #fdebeb; 
+    --color-error-lightest-1: #fef5f5; 
+    --color-accent-1-darker: #5b3d80; 
+    --color-accent-1-dark: #885cbf; 
+    --color-accent-1-default: #b57bff; 
+    --color-accent-1-light: #dabdff; 
+    --color-accent-1-lighter: #eddeff; 
+    --color-accent-1-lightest-2: #f8f2ff; 
+    --color-accent-1-lightest-1: #fbf8ff; 
+    --color-accent-2-darker: #7f471c; 
+    --color-accent-2-dark: #be6a2b; 
+    --color-accent-2-default: #fd8e39; 
+    --color-accent-2-light: #fec79c; 
+    --color-accent-2-lighter: #ffe3cd; 
+    --color-accent-2-lightest-2: #fff4eb; 
+    --color-accent-2-lightest-1: #fff9f5; 
+    --color-product-colors-facebook: #3c5a96; 
+    --color-product-colors-linkedin: #1178b3; 
+    --color-product-colors-mailchimp: #2c9ab7; 
+    --color-product-colors-microsoft: #f35426; 
+    --color-product-colors-twitter: #2aa3ef; 
+    --color-product-colors-pinterest: #bb0f23; 
+    --color-product-colors-paypal: #053385; 
+    --color-product-colors-reddit: #fc471e; 
+    --color-product-colors-google: #e8453c; 
+    --color-product-colors-dropbox: #1581e2; 
+    --color-product-colors-rss: #f0652f; 
+    --color-product-colors-salesforce: #2399bf; 
+    --color-product-colors-dribbble: #e84f89; 
+    --color-product-colors-instagram: #713dbb; 
+    --color-product-colors-slack: #de1d64; 
+    --color-product-colors-youtube: #fc0d1b; 
+}
